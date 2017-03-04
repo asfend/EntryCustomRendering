@@ -15,3 +15,5 @@ C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRenderin
 C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.pdb
 C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.dll.mdb
 C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\EntryCustomRendering.dll.mdb
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.dll.mdb
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\EntryCustomRendering.dll.mdb
