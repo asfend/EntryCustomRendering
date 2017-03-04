@@ -4,8 +4,12 @@
              xmlns:local="clr-namespace:EntryCustomRendering"
              x:Class="EntryCustomRendering.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
-           HorizontalOptions="Center" />
+  <StackLayout Padding="20,60,20,0">
+    <local:NoBorderEntry Placeholder="Username" Keyboard="Chat" />
+    <local:NoBorderEntry Placeholder="Phone" Keyboard="Telephone"/>
+    <local:NoBorderEntry Placeholder="Email" Keyboard="Email"/>
+    <local:NoBorderEntry Placeholder="Password" IsPassword="true"/>
+    <Entry Placeholder="Normal Entry"></Entry> 
+  </StackLayout>
 
 </ContentPage>

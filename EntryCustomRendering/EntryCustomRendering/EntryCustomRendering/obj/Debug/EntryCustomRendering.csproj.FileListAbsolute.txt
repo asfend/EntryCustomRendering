@@ -1,0 +1,17 @@
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\EntryCustomRendering.dll
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\EntryCustomRendering.pdb
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.csprojResolveAssemblyReference.cache
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.MainPage.xaml.g.cs
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.App.xaml.g.cs
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.dll
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.pdb
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\obj\Debug\EntryCustomRendering.dll.mdb
+C:\Users\Asfend\Desktop\GitRepositories\EntryCustomRendering\EntryCustomRendering\EntryCustomRendering\bin\Debug\EntryCustomRendering.dll.mdb
